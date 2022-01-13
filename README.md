@@ -18,7 +18,7 @@ INTEGRANTES:
 
 • Alvarado Nevárez Diego José
 
-**PRÁCTICA No. 5 Teorema de Thevenin**
+**PRÁCTICA No. 6 Teorema de Thevenin**
 
 Objetivos:
 
