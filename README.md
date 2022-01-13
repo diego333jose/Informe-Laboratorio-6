@@ -66,9 +66,20 @@ Marco teorico:
 
 ![](
 
+- Cuestionario 
+
+- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta. Si, debido a que mientras mas se acerca a 1.2 kohm la potencia aumenta
+
+- ¿Cuál fue la potencia máxima en RL? 0.50 Watts
+
+- ¿Para qué valor de RL se obtiene la MTP? 1500 Ω
+
 Conclusiones:
 
--	
+-	Es la resistencia de 1500ohms la que nos proporciona ka potencia maxima en este circuito
+
+- Podemos concluir en base a los simuladores realizados que en efecto se cumple el teorema de la máxima transferencia de potencia
 
 Recomendaciones:
 
@@ -78,6 +89,6 @@ Recomendaciones:
 
 Referencias:
 
-
+- Roy, S. (s. f.). Teorema de transferencia de potencia máxima | 3+ pasos importantes | Explicaciones. Recuperado 13 de enero de 2022, de https://es.lambdageeks.com/maximum-power-transfer-theorem/
 
 Link del video: https://www.youtube.com/watch?v=NK2by0bbgn0
