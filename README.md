@@ -63,8 +63,7 @@ Marco teorico:
 - ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta. 
 
-El Teorema de la Máxima Transferencia de Potencia Establece que la resistencia de carga de un circuito de CC recibe la potencia máxima si la magnitud de la resistencia de carga es la misma que la resistencia equivalente de Thévenin.
-Y queda comprobado ya que en este caso, el valor que mas se acerca al de R1 es 1500 ohm, y este a su ves posee la potencia más grande.
+El Teorema de la Máxima Transferencia de Potencia Establece que la resistencia de carga de un circuito de CC recibe la potencia máxima si la magnitud de la resistencia de carga es la misma que la resistencia equivalente de Thévenin, esto queda comprobado ya que en este caso, el valor que mas se acerca al de R1 es 1500 ohm, y este a su ves posee la potencia más grande.
 
 
 - ¿Cuál fue la potencia máxima en RL? 0.50 Watts
@@ -73,7 +72,7 @@ Y queda comprobado ya que en este caso, el valor que mas se acerca al de R1 es 1
 
 Conclusiones:
 
--	Es la resistencia de 1500ohms la que nos proporciona ka potencia maxima en este circuito
+-	Es la resistencia de 1500ohms la que nos proporciona la potencia maxima en este circuito
 
 - Podemos concluir en base a los simuladores realizados que en efecto se cumple el teorema de la máxima transferencia de potencia
 
