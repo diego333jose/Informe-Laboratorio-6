@@ -44,15 +44,7 @@ Marco teorico:
 
 ![](
 
-![](
-
-![](
-
 - Simuladores
-
-![](
-
-![](
 
 ![](
 
@@ -64,7 +56,6 @@ Marco teorico:
 
 ![](
 
-![](
 
 - Cuestionario 
 
