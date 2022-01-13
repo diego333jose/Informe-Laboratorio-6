@@ -40,27 +40,30 @@ Marco teorico:
 
 - Ejercicios
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/Cálculos%20laboratorio%206_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/imagen_2022-01-13_181412.png)
 
 - Simuladores
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/CIRCUITOS%20DCAC%20LAB_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/CIRCUITOS%20DCAC%20LAB_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/CIRCUITOS%20DCAC%20LAB_page-0003.jpg)
 
 - Analisis de datos
 
-![](
-
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/imagen_2022-01-13_181346.png)
 
 - Cuestionario 
 
 - ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
-respuesta. Si, debido a que mientras mas se acerca a 1.2 kohm la potencia aumenta
+respuesta. 
+
+El Teorema de la Máxima Transferencia de Potencia Establece que la resistencia de carga de un circuito de CC recibe la potencia máxima si la magnitud de la resistencia de carga es la misma que la resistencia equivalente de Thévenin.
+Y queda comprobado ya que en este caso, el valor que mas se acerca al de R1 es 1500 ohm, y este a su ves posee la potencia más grande.
+
 
 - ¿Cuál fue la potencia máxima en RL? 0.50 Watts
 
