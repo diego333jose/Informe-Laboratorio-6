@@ -28,6 +28,8 @@ General:
 
 Especificos:
 
+- Comprobar experimentalmente la teoría de transferencia de potencia máxima.
+
 - Familiarizar al estudiante con el uso del simulador DCAC Lab 
 
 - Medir el voltaje, corriente y potencia del resistor RL 
