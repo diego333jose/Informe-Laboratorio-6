@@ -56,7 +56,7 @@ Marco teorico:
 
 - Analisis de datos
 
-![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/imagen_2022-01-13_181346.png)
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/imagen_2022-01-14_103407.png)
 
 - Cuestionario 
 
