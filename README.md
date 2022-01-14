@@ -38,7 +38,7 @@ Especificos:
 
 Marco teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-6/blob/main/Imagenes/Diagrama%20en%20blanco%20(4).png)
 
 - Ejercicios
 
